@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Documentation
+    url: https://netradar-testbed.github.io
+    about: Setup guides and troubleshooting
+  - name: Report a security vulnerability
+    url: https://github.com/NetRadar-Testbed/NetRadar-Node/security/advisories/new
+    about: Please report security problems privately, not as an issue
